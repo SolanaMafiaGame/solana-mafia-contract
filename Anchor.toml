@@ -1,0 +1,24 @@
+[toolchain]
+package_manager = "yarn"
+anchor_version = "0.31.1"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.devnet]
+solana_mafia = "9h2uDYXv48GAfSXzprXDgDKBCkxAv7yRY2pDbZeGnZXF"
+
+[programs.localnet]
+solana_mafia = "9h2uDYXv48GAfSXzprXDgDKBCkxAv7yRY2pDbZeGnZXF"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test-all = "yarn run mocha -t 1000000 tests/"
+test-validator = "anchor test"

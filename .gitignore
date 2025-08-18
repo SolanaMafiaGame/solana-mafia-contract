@@ -1,0 +1,26 @@
+# Anchor
+.anchor
+target/
+node_modules/
+test-ledger/
+.DS_Store
+
+# Rust
+Cargo.lock
+**/*.rs.bk
+
+# IDL
+*.so
+
+# Local environment
+.env*
+!.env.example
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# Generated files
+types/
