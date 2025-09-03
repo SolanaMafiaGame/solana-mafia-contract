@@ -5,7 +5,7 @@
 **Contract Version**: v1.0  
 **Program ID**: `EY9ogxuikhEhfCREyEW9C9v4njx4r5uHe3gZ1STxoP69`  
 **Blockchain**: Solana (Anchor Framework)  
-**Source Code**: https://github.com/kpizzy812/solana-mafia/tree/main/programs/solana-mafia/src
+**Source Code**: [https://github.com/kpizzy812/solana-mafia/tree/main/programs/solana-mafia/src](https://github.com/SolanaMafiaGame/solana-mafia-contract)
 
 ---
 
