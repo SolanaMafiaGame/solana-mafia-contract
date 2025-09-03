@@ -3,7 +3,7 @@
 **Auditor**: Independent Security Assessment  
 **Audit Date**: August 15, 2025  
 **Contract Version**: v1.0  
-**Program ID**: `9h2uDYXv48GAfSXzprXDgDKBCkxAv7yRY2pDbZeGnZXF`  
+**Program ID**: `EY9ogxuikhEhfCREyEW9C9v4njx4r5uHe3gZ1STxoP69`  
 **Blockchain**: Solana (Anchor Framework)  
 **Source Code**: https://github.com/kpizzy812/solana-mafia/tree/main/programs/solana-mafia/src
 
