@@ -88,7 +88,7 @@ pub fn update_entry_fee(ctx: Context<UpdateEntryFee>, new_fee_lamports: u64) -> 
 }
 ```
 
-**Hardcoded Admin**: `HLWTn3BYB3jvgquBG323XLyqzEj11H4N5m6EMpPGCCG6`
+**Hardcoded Admin**: `EnmCPD3tkBefLKtNGEULoJNVYuMasyPrUjVddtqNKrN9`
 
 ### 🕵️ CRITICAL ANALYSIS: SCAM POSSIBILITIES
 
