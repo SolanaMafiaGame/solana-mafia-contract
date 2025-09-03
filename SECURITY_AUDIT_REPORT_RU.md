@@ -88,7 +88,7 @@ pub fn update_entry_fee(ctx: Context<UpdateEntryFee>, new_fee_lamports: u64) -> 
 }
 ```
 
-**Хардкоженный admin**: `HLWTn3BYB3jvgquBG323XLyqzEj11H4N5m6EMpPGCCG6`
+**Хардкоженный admin**: `EnmCPD3tkBefLKtNGEULoJNVYuMasyPrUjVddtqNKrN9`
 
 #### 2.2 КРИТИЧЕСКИЙ АНАЛИЗ: ВОЗМОЖНОСТИ ДЛЯ SCAM
 
