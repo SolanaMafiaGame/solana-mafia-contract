@@ -3,7 +3,7 @@
 **Аудитор**: Независимая оценка безопасности  
 **Дата аудита**: 15 августа 2025  
 **Версия контракта**: v1.0  
-**Program ID**: `EY9ogxuikhEhfCREyEW9C9v4njx4r5uHe3gZ1STxoP69`  
+**Program ID**: `AGiBQagzN1phHjAuwQZ7Uco87zuDKtZ1cW7pKq5ajgxp`  
 **Блокчейн**: Solana (Anchor Framework)
 
 ---
